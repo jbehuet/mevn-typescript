@@ -1,11 +1,16 @@
-# MEAN-TYPESCRIPT
+# MEVN-TYPESCRIPT
 
 [![Licence](https://img.shields.io/badge/licence-MIT-blue.svg?maxAge=2592000)](https://github.com/jbehuet/mean-typescript/blob/master/LICENCE)
+
+* **M** : MongoBD
+* **E** : Express
+* **V** : VueJS
+* **N** : Node
 
 ### Installation
 
 ```
-git clone https://github.com/jbehuet/mean-typescript.git   
+git clone https://github.com/jbehuet/mevn-typescript.git   
 cd mean-typescript
 npm i
 ```
