@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Build directory
+dist/
+
+# js
+src/**/*.js
